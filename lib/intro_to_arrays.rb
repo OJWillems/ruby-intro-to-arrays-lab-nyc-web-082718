@@ -13,6 +13,4 @@ end
       end
     end
     
-def first_element
-  [0]
-end
+first_element[0]
